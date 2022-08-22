@@ -15,7 +15,23 @@ Act of `organizing & storing` data efficiently in a way that's avaible for peopp
 
 this procces of `stagging data` before uploadding to dataWarehouse it's done by `ETL` (extract transform load)
 
-`Data Mart` `specific data from d.warehouse` with limited access
+`Data Mart` `specific data from d.warehouse` with `limited access`
 
 ![image](https://user-images.githubusercontent.com/51888893/185955912-b0e1fd67-890c-415f-bbd2-ffbe51889d1b.png)
+
+# *️⃣OLAP
+❗ __online analytical processing__
+
+flexible way to make complicated `analysis` of `multidimentional data`
+
+- OLTP : data stored in form of 2 dimentional tables 
+
+## ㊗️ advantages:
+- new view of looking data
+
+- supports filtering/sorting data
+
+- data can be __refined__
+
+![image](https://user-images.githubusercontent.com/51888893/185961322-1a3391a1-a6f6-4712-bce4-3fbf83376ef0.png)
 
