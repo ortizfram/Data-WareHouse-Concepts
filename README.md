@@ -105,3 +105,6 @@ dividing a data warehouse project into dimensions, provides `structured info for
 - presents how values & keys are linked between tables
 
 - database use relational model, `datawarehouse` uses `star, snowflake, factConstellation`
+
+![image](https://user-images.githubusercontent.com/51888893/186014509-0deb8f05-c790-439d-b9f9-a79bbbb3d8a1.png)
+
