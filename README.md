@@ -76,4 +76,16 @@ new sub cube from one particular dimension in a given cube :
 
 ![image](https://user-images.githubusercontent.com/51888893/186011332-b00fc8ae-bacf-44cc-9b57-deb85ede5d75.png)
 
+### 🟢Dice
+new sub cube from 2 or more dimensions in a given cube:
 
+![image](https://user-images.githubusercontent.com/51888893/186011808-ba0f610e-19ff-4e25-ba08-7e08f794e5d7.png)
+
+### 🟢Pivot
+also known as rotation. It transposes the axes to provide an alternative representation:
+
+![image](https://user-images.githubusercontent.com/51888893/186012150-ccae521d-f700-4689-a78b-f36806cc7066.png)
+# *️⃣Dimensions:
+dividing a data warehouse project into dimensions, provides `structured info for analysis & reporting`
+
+![image](https://user-images.githubusercontent.com/51888893/186012853-0eaac1a1-ecbc-4fd1-899f-6ea8ebf0503a.png)
