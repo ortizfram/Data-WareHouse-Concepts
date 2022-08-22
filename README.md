@@ -120,3 +120,8 @@ split into additional tables ex. dealer table is splitted  in location& country 
 
 ![image](https://user-images.githubusercontent.com/51888893/186015543-bd84e689-1bf1-4bfa-b31a-c2796b3b657b.png)
 
+### 🟢galaxy schema
+`more than 1 fact table`
+
+![image](https://user-images.githubusercontent.com/51888893/186015878-a588f3f7-767f-4686-b19b-435640f13577.png)
+
