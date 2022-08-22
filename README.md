@@ -1,2 +1,7 @@
 # Data-WareHouse-Concepts
-![data-warehouse-tableau-peru-sit-consulting-4](https://user-images.githubusercontent.com/51888893/185951047-645cb3b9-abc8-4184-bff7-9efab0e7b36f.png)
+# *️⃣What's Data WareHouse?
+`Relational` Data-base designed for `analytical needs`
+
+location where `multiple databases are stored`, & works on the **OLAP** bases (online,anlytical, processing)
+
+![image](https://user-images.githubusercontent.com/51888893/185953581-01fa05dd-6848-440a-a64b-aa3a39924779.png)
