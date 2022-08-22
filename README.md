@@ -99,7 +99,7 @@ dividing a data warehouse project into dimensions, provides `structured info for
 
 ![image](https://user-images.githubusercontent.com/51888893/186013656-319faf16-e6d2-4e4c-a978-1eb40118cc6f.png)
 
-## ㊗️Schemas:
+## ㊗️Schemas & types:
 `❗logical description of the entire database`
 
 - presents how values & keys are linked between tables
@@ -108,3 +108,9 @@ dividing a data warehouse project into dimensions, provides `structured info for
 
 ![image](https://user-images.githubusercontent.com/51888893/186014509-0deb8f05-c790-439d-b9f9-a79bbbb3d8a1.png)
 
+### 🟢star schema
+represented by one dimensional table
+
+- fact table is at the center & will be foreign key of the other tables 
+
+![image](https://user-images.githubusercontent.com/51888893/186015032-1f3568e8-0dcf-4807-9f58-873c0917d95d.png)
