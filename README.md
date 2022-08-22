@@ -114,3 +114,9 @@ represented by one dimensional table
 - fact table is at the center & will be foreign key of the other tables 
 
 ![image](https://user-images.githubusercontent.com/51888893/186015032-1f3568e8-0dcf-4807-9f58-873c0917d95d.png)
+
+### 🟢snowflake schema
+split into additional tables ex. dealer table is splitted  in location& country tables `product & variant`
+
+![image](https://user-images.githubusercontent.com/51888893/186015543-bd84e689-1bf1-4bfa-b31a-c2796b3b657b.png)
+
