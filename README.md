@@ -35,3 +35,20 @@ flexible way to make complicated `analysis` of `multidimentional data`
 
 ![image](https://user-images.githubusercontent.com/51888893/185961322-1a3391a1-a6f6-4712-bce4-3fbf83376ef0.png)
 
+## ㊗️ Types of OLAP cubes:
+### 🟢 MOLAP
+processes &  stores `directly into a multidimentional database`
+
+- __ADVANTAGES__ :excelent performance, complex caculations can be performed
+
+- __DISADVANTAGES__ : limited data can be handled
+### 🟢 ROLAP
+`Dynamic multidimentional analysis` of data stored in a relational DB than multidimentional DB
+
+- __ADVANTAGES__ : greater ammount of data can be processed
+
+- __DISADVANTAGES__ : more processing time/disk space
+### 🟢 HOLAP
+`Hybrid` of data stored in a relational DB than multidimentional DB
+
+- __ADVANTAGES__ : drill-through from cube into underlying relational data
