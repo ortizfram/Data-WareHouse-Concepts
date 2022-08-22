@@ -9,11 +9,13 @@ location where `multiple databases are stored`, & works on the **OLAP** bases (o
 
 # *️⃣What's Data WareHousing?
 
-## ㊗️StagingData through ETL 
+## ㊗️StagingData through ETL, D.Marts
 
 Act of `organizing & storing` data efficiently in a way that's avaible for peopple to get insights from them `data into info`
 
 this procces of `stagging data` before uploadding to dataWarehouse it's done by `ETL` (extract transform load)
+
+`Data Mart` `specific data from d.warehouse` with limited access
 
 ![image](https://user-images.githubusercontent.com/51888893/185955912-b0e1fd67-890c-415f-bbd2-ffbe51889d1b.png)
 
