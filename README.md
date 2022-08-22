@@ -9,4 +9,4 @@ location where `multiple databases are stored`, & works on the **OLAP** bases (o
 
 # *️⃣What's Data WareHousing?
 
-Act of `organizing & storing` data efficiently in a way that's avaible for peopple to get insights from them **data into info**
+Act of `organizing & storing` data efficiently in a way that's avaible for peopple to get insights from them `data into info`
