@@ -91,7 +91,7 @@ dividing a data warehouse project into dimensions, provides `structured info for
 ![image](https://user-images.githubusercontent.com/51888893/186012853-0eaac1a1-ecbc-4fd1-899f-6ea8ebf0503a.png)
 
 ## ㊗️Measures, Facts:
-❗every dimension table is linked to a measure table
+`❗every dimension table is linked to a measure table`
 
 - fact is a measure that can be summed, averaged, manipulated
 
