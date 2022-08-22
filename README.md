@@ -89,3 +89,13 @@ also known as rotation. It transposes the axes to provide an alternative represe
 dividing a data warehouse project into dimensions, provides `structured info for analysis & reporting`
 
 ![image](https://user-images.githubusercontent.com/51888893/186012853-0eaac1a1-ecbc-4fd1-899f-6ea8ebf0503a.png)
+
+## ㊗️Measures, Facts:
+❗every dimension table is linked to a measure table
+
+- fact is a measure that can be summed, averaged, manipulated
+
+- fact table contains 2 types of data:  dimension key & measure
+
+![image](https://user-images.githubusercontent.com/51888893/186013656-319faf16-e6d2-4e4c-a978-1eb40118cc6f.png)
+
