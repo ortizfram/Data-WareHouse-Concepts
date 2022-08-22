@@ -52,3 +52,28 @@ processes &  stores `directly into a multidimentional database`
 `Hybrid` of data stored in a relational DB than multidimentional DB
 
 - __ADVANTAGES__ : drill-through from cube into underlying relational data
+## ㊗️OLAP OPERATIONS:
+### 🟢roll-up
+aggregation on data cube :
+
+- hierarchy for a dimension
+
+- dimension reduction
+
+![image](https://user-images.githubusercontent.com/51888893/186010986-bae558ef-1b3c-41bc-a880-20a91a996ffd.png)
+
+### 🟢drill-down
+reverse from roll-up:
+
+- stepping down a concept hierarchy for a dimension 
+
+- introducing new dimension 
+
+![image](https://user-images.githubusercontent.com/51888893/186010876-3b3b5f64-3814-4c87-8dc8-a1d8c6480f70.png)
+
+### 🟢slice:
+new sub cube from one particular dimension in a given cube :
+
+![image](https://user-images.githubusercontent.com/51888893/186011332-b00fc8ae-bacf-44cc-9b57-deb85ede5d75.png)
+
+
